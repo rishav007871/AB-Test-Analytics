@@ -1,7 +1,7 @@
 # MöbelHaus Digital - A/B Test Analysis Portfolio Project
 
-**Author:** Joyan Bhathena  
-**Role:** Web Analyst  
+**Author:** Rishav Dey 
+**Role:** Associate Data Engineer
 **Project Type:** A/B Test Evaluation & Strategic Recommendation  
 **Tools Used:** Python, DuckDB (SQL), Pandas, Matplotlib, SciPy
 
